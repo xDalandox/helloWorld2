@@ -13,7 +13,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a0cb2be-5705-42ca-ba5f-dd2672bc8981" name="Default Changelist" comment="" />
+    <list default="true" id="6a0cb2be-5705-42ca-ba5f-dd2672bc8981" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +104,7 @@
       <updated>1585903365630</updated>
       <workItem from="1585903370099" duration="16451000" />
       <workItem from="1586188307672" duration="1261000" />
+      <workItem from="1586191489696" duration="440000" />
     </task>
     <servers />
   </component>
@@ -111,7 +116,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
