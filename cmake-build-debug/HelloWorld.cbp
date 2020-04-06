@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HelloWorld"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package_source">
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 package_source"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HelloWorld">
+				<Option output="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/HelloWorld.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 HelloWorld"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HelloWorld/fast">
+				<Option output="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/HelloWorld.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 HelloWorld/fast"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HelloWorldLib">
+				<Option output="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/libHelloWorldLib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 HelloWorldLib"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HelloWorldLib/fast">
+				<Option output="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/libHelloWorldLib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 HelloWorldLib/fast"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_version">
+				<Option output="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/test_version.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DBOOST_TEST_DYN_LINK"/>
+					<Add directory="C:/Users/xMellox/boost/boost_1_62_0"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_version"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_version/fast">
+				<Option output="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/test_version.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DBOOST_TEST_DYN_LINK"/>
+					<Add directory="C:/Users/xMellox/boost/boost_1_62_0"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\mingw_\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_version/fast"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package">
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 package"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Mingw_/bin/mingw32-make.exe -f &quot;C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/xMellox/CLionProjects/HelloWorld/lib.cpp">
+			<Option target="HelloWorldLib"/>
+		</Unit>
+		<Unit filename="C:/Users/xMellox/CLionProjects/HelloWorld/lib.h">
+			<Option target="HelloWorldLib"/>
+		</Unit>
+		<Unit filename="C:/Users/xMellox/CLionProjects/HelloWorld/main.cpp">
+			<Option target="HelloWorld"/>
+		</Unit>
+		<Unit filename="C:/Users/xMellox/CLionProjects/HelloWorld/test_version.cpp">
+			<Option target="test_version"/>
+		</Unit>
+		<Unit filename="C:/Users/xMellox/CLionProjects/HelloWorld/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/xMellox/CLionProjects/HelloWorld/version.h.in">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,2 @@
+D:\Mingw_\bin\ar.exe qc libHelloWorldLib.a  CMakeFiles/HelloWorldLib.dir/lib.cpp.obj
+D:\Mingw_\bin\ranlib.exe libHelloWorldLib.a

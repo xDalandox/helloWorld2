@@ -1,0 +1,6 @@
+"D:\CLion_\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\xMellox\CLionProjects\HelloWorld
+-- Boost version: 1.62.0
+Boost library dirs are C:/Users/xMellox/boost/boost_1_62_0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/xMellox/CLionProjects/HelloWorld/cmake-build-debug
