@@ -13,7 +13,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a0cb2be-5705-42ca-ba5f-dd2672bc8981" name="Default Changelist" comment="" />
+    <list default="true" id="6a0cb2be-5705-42ca-ba5f-dd2672bc8981" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +103,7 @@
       <workItem from="1585903370099" duration="16451000" />
       <workItem from="1586188307672" duration="1261000" />
       <workItem from="1586191489696" duration="440000" />
-      <workItem from="1586228782101" duration="3900000" />
+      <workItem from="1586228782101" duration="4511000" />
     </task>
     <servers />
   </component>
