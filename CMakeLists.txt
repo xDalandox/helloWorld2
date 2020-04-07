@@ -1,9 +1,12 @@
 cmake_minimum_required(VERSION 3.2)
 #
-if(NOT TRAVIS_BUILD_NUMBER)
-    set(PATCH 27)
-else()
+message("$ENV{TRAVIS_BUILD_NUMBER}")
+
+
+if(DEFINED $ENV{TRAVIS_BUILD_NUMBER})
     set(PATCH $ENV{TRAVIS_BUILD_NUMBER})
+else()
+    set(PATCH 27)
 endif()
 
 project(HelloWorld VERSION 0.0.${PATCH})
