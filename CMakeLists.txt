@@ -8,7 +8,7 @@ endif()
 
 project(HelloWorld VERSION 0.0.${PATCH})
 
-find_package(boost REQUIRED COMPONENTS unit_test_framework)
+find_package(Boost REQUIRED COMPONENTS unit_test_framework)
 
 message("Boost library dirs are ${Boost_INCLUDE_DIRS}")
 
