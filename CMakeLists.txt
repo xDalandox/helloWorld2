@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.2)
 message("$ENV{TRAVIS_BUILD_NUMBER}")
 
 
-if(DEFINED $ENV{TRAVIS_BUILD_NUMBER})
+if(DEFINED ENV{TRAVIS_BUILD_NUMBER})
     set(PATCH $ENV{TRAVIS_BUILD_NUMBER})
 else()
     set(PATCH 27)
